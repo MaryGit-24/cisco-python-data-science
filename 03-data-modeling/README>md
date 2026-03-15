@@ -1,1 +1,54 @@
-Place Holder
+# lion-attacks-project
+
+## Dataset
+Data Sources:
+
+Packer, Craig, et al. "Fear of darkness, the full moon and the nocturnal ecology of African lions." PloS one 6.7 (2011): e22285.
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022285
+
+Lion attacks: Figure 3
+Lion belly size: Figure 1, rescaled to between 0 and 1, average of male and female.
+
+Moon phase data:
+Daily Moon Guide, NASA.
+https://moon.nasa.gov/moon-observation/daily-moon-guide/
+
+Further information on belly size:
+Bertram, Brian CR. "Weights and measures of lions." African Journal of Ecology 13.2 (1975): 141-143.
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2028.1975.tb00128.x
+
+## Objective
+Extract features from each painting and perform analysis to answer specific questions.
+
+## Methodology
+- Data preprocessing  
+- Feature extraction using Python  
+- Analysis and visualizations  
+- Code in `notebook.ipynb`
+
+
+# stopping-distances-project
+
+Data Sources:
+
+eBike stopping distances:
+We measured stopping distances using an eBike on a gravel road.
+
+Car stopping distances:
+Cairney, Peter, and Anthony Germanchev. "A pilot study of the effects of macrotexture on stopping distance." Road Safety Research and Analysis Report (2006).
+
+https://www.infrastructure.gov.au/sites/default/files/migrated/roads/safety/publications/2006/pdf/CR226_Macro.pdf
+
+
+# tusked-elephants-project
+
+Data Sources:
+
+Chiyo, Patrick I., Vincent Obanda, and David K. Korir. "Illegal tusk harvest and the decline of tusk size in the A frican elephant." Ecology and Evolution 5.22 (2015): 5216-5229.
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.1769
+
+Found at:
+https://datadryad.org/dataset/doi:10.5061/dryad.h6t7j
